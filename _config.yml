@@ -9,7 +9,7 @@ gems:             [jekyll-paginate,jekyll-gist]
 title: 子辰的思考
 email: zzzzicccchen@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  no where to go but up
+  nowhere to go but up
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.taitanbai.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
